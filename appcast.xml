@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+    xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Vibeper Updates</title>
+    <link>https://github.com/FilyDev/vibeper-updates/releases</link>
+    <description>Mises a jour officielles de Vibeper</description>
+    <language>fr</language>
+    <item>
+      <title>Vibeper 0.9.0</title>
+      <pubDate>Sun, 08 Feb 2026 23:30:39 +0000</pubDate>
+      <enclosure
+        url="https://github.com/FilyDev/vibeper-updates/releases/download/v0.9.0/Vibeper.zip"
+        sparkle:version="11"
+        sparkle:shortVersionString="0.9.0"
+        sparkle:minimumSystemVersion="14.0"
+        sparkle:edSignature="MCvk6OTPsBIf/kOml/mRQlLU38ep0ytDu2XCplLj5pyPemBjVYorC0l6wKWNRlEZETunpSEFxmmzAoY8JXGODw=="
+        length="4709793"
+        type="application/octet-stream" />
+      <sparkle:releaseNotesLink>https://github.com/FilyDev/vibeper-updates/releases/tag/v0.9.0</sparkle:releaseNotesLink>
+    </item>
+  </channel>
+</rss>
