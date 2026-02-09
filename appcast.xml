@@ -8,17 +8,17 @@
     <description>Mises a jour officielles de Vibeper</description>
     <language>fr</language>
     <item>
-      <title>Vibeper 0.9.7</title>
-      <pubDate>Mon, 09 Feb 2026 13:08:38 +0000</pubDate>
+      <title>Vibeper 0.9.8</title>
+      <pubDate>Mon, 09 Feb 2026 13:15:03 +0000</pubDate>
       <enclosure
-        url="https://github.com/FilyDev/vibeper-updates/releases/download/v0.9.7/Vibeper.zip"
-        sparkle:version="18"
-        sparkle:shortVersionString="0.9.7"
+        url="https://github.com/FilyDev/vibeper-updates/releases/download/v0.9.8/Vibeper.zip"
+        sparkle:version="19"
+        sparkle:shortVersionString="0.9.8"
         sparkle:minimumSystemVersion="14.0"
-        sparkle:edSignature="Nyu7ZXApku7ZnpNYklEUDG9f9vzfbqBQyZ5Awsv/SYptAXq5G83UYBgSJHSJ39yep/RotL6xT2i/RNXq4z4qAg=="
-        length="4720115"
+        sparkle:edSignature="p0a9IvPVVmbbywD3pg3/bRXqUNdlcrR4PfUxFpYThI3xRrS83sbnFygJ1Fa4gGHp0MSldA5koDUC2X97D1MUBQ=="
+        length="4726509"
         type="application/octet-stream" />
-      <sparkle:releaseNotesLink>https://github.com/FilyDev/vibeper-updates/releases/tag/v0.9.7</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink>https://github.com/FilyDev/vibeper-updates/releases/tag/v0.9.8</sparkle:releaseNotesLink>
     </item>
   </channel>
 </rss>
