@@ -8,17 +8,17 @@
     <description>Mises a jour Vibeper (public)</description>
     <language>fr</language>
     <item>
-      <title>Vibeper 0.15.0</title>
-      <pubDate>Thu, 01 Oct 2026 18:38:18 +0000</pubDate>
+      <title>Vibeper 0.15.1</title>
+      <pubDate>Thu, 01 Oct 2026 18:57:12 +0000</pubDate>
       <enclosure
-        url="https://github.com/FilyDev/vibeper-updates/releases/download/v0.15.0/Vibeper.zip"
-        sparkle:version="202610012025"
-        sparkle:shortVersionString="0.15.0"
+        url="https://github.com/FilyDev/vibeper-updates/releases/download/v0.15.1/Vibeper.zip"
+        sparkle:version="202610012055"
+        sparkle:shortVersionString="0.15.1"
         sparkle:minimumSystemVersion="14.0"
-        sparkle:edSignature="fmxOo9sa8XQEnxPWtV/AV//QNSTGhf9Fjny4wV50YeQhBwO4yhyH1H44v99SfttvEt/F+hJTmaeguGap9wo/Dw=="
-        length="5366200"
+        sparkle:edSignature="j3HpBtt7z87Y2nHhnsPjG0Wxz4FWnkE7A2YrH0Qp7qAujt/i+NeUSMukCimZon5b0ITvYHWMQODKUZRpaNvsAA=="
+        length="5366168"
         type="application/octet-stream" />
-      <sparkle:releaseNotesLink>https://github.com/FilyDev/vibeper-updates/releases/tag/v0.15.0</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink>https://github.com/FilyDev/vibeper-updates/releases/tag/v0.15.1</sparkle:releaseNotesLink>
     </item>
   </channel>
 </rss>
